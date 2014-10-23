@@ -1,0 +1,12 @@
+﻿Построение начато 08.10.2014 10:59:16.
+     1>Проект "D:\Dropbox\tmp\2\2\2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>d:\dropbox\tmp\2\2\stdafx.cpp : fatal error C1033: невозможно открыть базу данных программы "d:\dropbox\tmp\2\2\debug\vc100.idb"
+     1>cl : командная строка warning D9028: сбой минимального перестроения, возврат к обычному построению
+     1>Построение проекта "D:\Dropbox\tmp\2\2\2.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:06.37
