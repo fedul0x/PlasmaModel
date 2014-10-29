@@ -3,8 +3,7 @@
 
  
 #include "stdafx.h"
- 
-#include <fstream>
+ #include <fstream>
 #include <iostream>
 #include <iomanip>
  
